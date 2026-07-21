@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-## Name :
-## Roll no :
-## Date of experiment :
+## Name : D.BALA SUBRAMANYAM
+## Roll no : 212224040062
+## Date of experiment : 21-07-2026
 
 
 
